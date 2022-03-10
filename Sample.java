@@ -17,6 +17,8 @@ public class Sample {
     }
     public static void main(String args[]){
         System.out.println("Hello World");
+        add(10,5);
+        sub(10,5);
     }
 
 }
