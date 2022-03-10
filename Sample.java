@@ -1,4 +1,4 @@
-#Resolved conflict and merged branch
+//Resolved conflict and merged branch
 public class Sample {
     //adding few lines in new branch
     static int add(int a,int b){
