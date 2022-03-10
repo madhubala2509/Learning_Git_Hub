@@ -25,6 +25,8 @@ public class Sample {
         System.out.println(ra);
         System.out.println(rs);
 
+        System.out.println(rm);
+        System.out.println(rd);
     }
 
 }
