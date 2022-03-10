@@ -20,6 +20,8 @@ public class Sample {
 
         add(10,20);
         sub(20,10);
+        mul(4,4);
+        div(4,2);
 
     }
 
