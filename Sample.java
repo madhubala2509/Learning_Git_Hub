@@ -18,12 +18,11 @@ public class Sample {
     public static void main(String args[]){
         System.out.println("Hello World");
 
-
         int ra = add(10,20);
         int rs = sub(20,10);
         int rm = mul(5,4);
         int rd = div(20,2);
-
+        System.out.println(ra);
 
     }
 
