@@ -22,6 +22,7 @@ public class Sample {
         int rs = sub(20,10);
         int rm = mul(5,4);
         int rd = div(20,2);
+        System.out.println(ra);
 
     }
 
