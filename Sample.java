@@ -23,6 +23,7 @@ public class Sample {
         int rm = mul(5,4);
         int rd = div(20,2);
         System.out.println(ra);
+        System.out.println(rs);
 
     }
 
